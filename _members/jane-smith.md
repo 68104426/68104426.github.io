@@ -1,6 +1,6 @@
 ---
 name: Geng Yan
-image: 0107_1.jpg
+image: _members/0107_1.jpg
 role: pi
 affiliation: University of Colorado
 aliases:
